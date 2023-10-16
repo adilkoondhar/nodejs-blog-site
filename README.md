@@ -1,2 +1,2 @@
 # nodejs-blog-site
- This is a practice project, a simple blog site. NodeJS, express, ejs, and mongodb have been used in this project. 
+This is a practice project to implement a simple blog site using NodeJS, Express, EJS, and MongoDB. It allows users to create, and read blog posts.
