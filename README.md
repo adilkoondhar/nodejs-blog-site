@@ -12,3 +12,4 @@ This is a practice project to implement a simple blog site using NodeJS, Express
 - **JavaScript:** A versatile scripting language used for building interactive web pages.
 - **npm:** The default package manager for Node.js, facilitating easy dependency management.
 - **Expressjs:** Powerful Node.js framework for building web apps & APIs.
+- **Mongoose:** Simplifies interacting with MongoDB in Node.js by offering schemas, queries, and abstraction.
