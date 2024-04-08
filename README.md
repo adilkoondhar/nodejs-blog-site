@@ -14,3 +14,4 @@ This is a practice project to implement a simple blog site using NodeJS, Express
 - **Expressjs:** Powerful Node.js framework for building web apps & APIs.
 - **Mongoose:** Simplifies interacting with MongoDB in Node.js by offering schemas, queries, and abstraction.
 - **MongoDB:** A flexible NoSQL database program utilizing JSON-like documents for data storage.
+- **HTML:** The fundamental markup language for creating structured web documents, providing the backbone for content presentation and organization.
